@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="ru">
 <head>
+
     <meta charset="utf-8">
     <title>ПЕРВЫЙ ВИЗОВЫЙ КЕМЕРОВО - оформление виз в любую страну мира, шенгенских виз и других виз в Кемерове</title>
 
@@ -13,7 +14,9 @@
     <? require('meta.php'); ?> 
 
 </head>
+
 <body>
+
 <? require('nav.php'); ?>
 <section class="Header">
     <div class="Header-Slides">
